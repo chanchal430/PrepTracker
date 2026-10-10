@@ -2,9 +2,9 @@
 
 A responsive dashboard where a student can track their weekly interview-preparation work. Add questions across DSA, Git and Technical categories, track their difficulty and status, search and filter them, and watch overall progress update in real time. All data is saved in the browser, so nothing is lost on refresh.
 
-- **Live demo:** [`Demo`](https://drive.google.com/file/d/1Bk6H3np1RtgBEEfq-eFcuZXQEdxJLlAW/view?usp=sharing)
-- **Demo video:** [`Demo`](https://drive.google.com/file/d/1Sh7RdfnoNhmxR7GopWtLATG6Thaor879/view?usp=sharing)
-- **Repository:** [`Repo`](https://github.com/chanchal430/PrepTracker.git)
+- **Live demo:** [`Live Demo`](https://prep-tracker-ecru.vercel.app/)
+- **Demo video:** [`Click To See Video`](https://drive.google.com/file/d/1Sh7RdfnoNhmxR7GopWtLATG6Thaor879/view?usp=sharing)
+- **Repository:** [`Project`](https://github.com/chanchal430/PrepTracker.git)
 
 ---
 
